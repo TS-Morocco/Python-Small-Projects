@@ -1,0 +1,81 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/gocode/gits/Python-Small-Projects/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+BLACK	games/game_of_life.py	/^BLACK = (0, 0, 0)$/;"	v
+BLUE	games/game_of_life.py	/^BLUE = (0, 0, 255)$/;"	v
+CELL_COLORS	games/game_of_life.py	/^CELL_COLORS = [RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN]$/;"	v
+CYAN	games/game_of_life.py	/^CYAN = (0, 255, 255)$/;"	v
+Cell	games/game_of_life.py	/^class Cell(pg.sprite.Sprite):$/;"	c
+FONT	games/game_of_life.py	/^FONT = 'courier new'$/;"	v
+FONTSIZE	games/game_of_life.py	/^FONTSIZE = 15$/;"	v
+FPS	games/game_of_life.py	/^FPS = 60$/;"	v
+GENERATIONS_PER_SECOND	games/game_of_life.py	/^GENERATIONS_PER_SECOND = 20$/;"	v
+GREEN	games/game_of_life.py	/^GREEN = (0, 255, 0)$/;"	v
+GREY	games/game_of_life.py	/^GREY = (60, 60, 60)$/;"	v
+Game	games/game_of_life.py	/^class Game:$/;"	c
+HEIGHT	games/game_of_life.py	/^HEIGHT = 768$/;"	v
+LEFT	games/game_of_life.py	/^LEFT = 0$/;"	v
+LIGHT_GREY	games/game_of_life.py	/^LIGHT_GREY = (180, 180, 180)$/;"	v
+MAGENTA	games/game_of_life.py	/^MAGENTA = (255, 0, 255)$/;"	v
+Portfolio	iterators/PortfolioClass.py	/^class Portfolio:$/;"	c
+Python-Small-Projects	README.md	/^# Python-Small-Projects/;"	c
+RANDOM_CHANCE_TO_ALIVE_CELL	games/game_of_life.py	/^RANDOM_CHANCE_TO_ALIVE_CELL = 0.3$/;"	v
+RED	games/game_of_life.py	/^RED = (255, 0, 0)$/;"	v
+RIGHT	games/game_of_life.py	/^RIGHT = 2$/;"	v
+TILESIZE	games/game_of_life.py	/^TILESIZE = next(TILESIZES)$/;"	v
+TILESIZES	games/game_of_life.py	/^TILESIZES = cycle([8, 16, 32, 64])$/;"	v
+TITLE	games/game_of_life.py	/^TITLE = "Conway's Game of Life"$/;"	v
+TestCircleAreq	unittest/test_circles.py	/^class TestCircleAreq(unitest.TestCase):$/;"	c
+WHITE	games/game_of_life.py	/^WHITE = (255, 255, 255)$/;"	v
+WIDTH	games/game_of_life.py	/^WIDTH = 1024$/;"	v
+YELLOW	games/game_of_life.py	/^YELLOW = (255, 255, 0)$/;"	v
+__init__	games/game_of_life.py	/^    def __init__(self):$/;"	m	class:Game
+__init__	games/game_of_life.py	/^    def __init__(self, game, x, y):$/;"	m	class:Cell
+__init__	iterators/PortfolioClass.py	/^    def __init__(self):$/;"	m	class:Portfolio
+__iter__	iterators/PortfolioClass.py	/^    def __iter__(self):$/;"	m	class:Portfolio
+blit	games/game_of_life.py	/^    def blit(self, position, text, color=LIGHT_GREY):$/;"	m	class:Game
+buy	iterators/PortfolioClass.py	/^    def buy(self, ticker, shares):$/;"	m	class:Portfolio
+circle_area	unittest/circles.py	/^def circle_area(r):$/;"	f
+draw	games/game_of_life.py	/^    def draw(self):$/;"	m	class:Game
+draw_grid	games/game_of_life.py	/^    def draw_grid(self):$/;"	m	class:Game
+draw_menu	games/game_of_life.py	/^    def draw_menu(self):$/;"	m	class:Game
+estimate_pi	pi/estimate_pi.py	/^def estimate_pi(n):$/;"	f
+events	games/game_of_life.py	/^    def events(self):$/;"	m	class:Game
+g	games/game_of_life.py	/^g = Game()$/;"	v
+g	generators/generators1.py	/^def g():$/;"	f
+isPrimev1	primes/primev1.py	/^def isPrimev1(n):$/;"	f
+isPrimev2	primes/primev2.py	/^def isPrimev2(n):$/;"	f
+isPrimev2	primes/primev3.py	/^def isPrimev2(n):$/;"	f
+letters	generators/generators2.py	/^def letters():$/;"	f
+list	iterators/iterators1.py	/^list = ['CSH3', 'ASDF', 'Franky', 'Dexter']$/;"	v
+looper	iterators/iterators2.py	/^looper = iter(users)$/;"	v
+new	games/game_of_life.py	/^    def new(self):$/;"	m	class:Game
+new_generation	games/game_of_life.py	/^    def new_generation(self):$/;"	m	class:Game
+off	games/game_of_life.py	/^    def off(self, color=BLACK):$/;"	m	class:Cell
+on	games/game_of_life.py	/^    def on(self, color=WHITE):$/;"	m	class:Cell
+p	iterators/PortfolioClass.py	/^p = Portfolio()$/;"	v
+pg	games/game_of_life.py	/^import pygame as pg$/;"	I	nameref:module:pygame
+prime_numbers	generators/generators3.py	/^def prime_numbers():$/;"	f
+quit	games/game_of_life.py	/^    def quit(self):$/;"	m	class:Game
+randomize	games/game_of_life.py	/^    def randomize(self, chance_for_alive_cell=RANDOM_CHANCE_TO_ALIVE_CELL):$/;"	m	class:Game
+run	games/game_of_life.py	/^    def run(self):$/;"	m	class:Game
+sell	iterators/PortfolioClass.py	/^    def sell(self, ticker, shares):$/;"	m	class:Portfolio
+squares	generators/generators4.py	/^squares = (x**2 for x in itertools.count(1))$/;"	v
+survive	games/game_of_life.py	/^    def survive(self):$/;"	m	class:Cell
+t0	primes/primev1.py	/^t0 = time.time()$/;"	v
+t0	primes/primev2.py	/^t0 = time.time()$/;"	v
+t0	primes/primev3.py	/^t0 = time.time()$/;"	v
+t1	primes/primev1.py	/^t1 = time.time()$/;"	v
+t1	primes/primev2.py	/^t1 = time.time()$/;"	v
+t1	primes/primev3.py	/^t1 = time.time()$/;"	v
+test_area	unittest/test_circles.py	/^    def test_area(self):$/;"	m	class:TestCircleAreq
+test_values	unittest/test_circles.py	/^    def test_values(self):$/;"	m	class:TestCircleAreq
+users	iterators/iterators2.py	/^users = ['Adam', 'Ryan', 'Emily', 'Tarik']$/;"	v
