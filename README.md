@@ -23,7 +23,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 - Select an issue and ask to be _assigned_ to it.
 - Check existing scripts in the [projects](/projects/) directory.
 - **Star** this repository.
-- On the [Usefull-scripts](https://github.com/TS-Morocco/Python-Small-Projects) repo page, click the **Fork** button.
+- On the [Python-Small-Projects](https://github.com/TS-Morocco/Python-Small-Projects) repo page, click the **Fork** button.
     <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
@@ -84,6 +84,8 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 ## Connect On Social media
 
-[Join WhatsApp group](https://chat.whatsapp.com/GroupeCode)
+[Join WhatsApp group](https://chat.whatsapp.com/OpenSourceProjects)
 
-## Contributors ✨
+## Contributors ✨ 
+
+

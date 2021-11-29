@@ -15,7 +15,7 @@ CELL_COLORS	games/game_of_life.py	/^CELL_COLORS = [RED, GREEN, YELLOW, BLUE, MAG
 CYAN	games/game_of_life.py	/^CYAN = (0, 255, 255)$/;"	v
 Cell	games/game_of_life.py	/^class Cell(pg.sprite.Sprite):$/;"	c
 Connect On Social media	README.md	/^## Connect On Social media$/;"	s	chapter:Python/JS/Rust scripts
-Contributors ✨	README.md	/^## Contributors ✨$/;"	s	chapter:Python/JS/Rust scripts
+Contributors ✨	README.md	/^## Contributors ✨ $/;"	s	chapter:Python/JS/Rust scripts
 FONT	games/game_of_life.py	/^FONT = 'courier new'$/;"	v
 FONTSIZE	games/game_of_life.py	/^FONTSIZE = 15$/;"	v
 FPS	games/game_of_life.py	/^FPS = 60$/;"	v
