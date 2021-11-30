@@ -8,7 +8,7 @@ This repository will be a fork/copy of popular openSource educational small proj
 
 # Python/JS/Rust scripts
 
-[![All Contributors](https://img.shields.io/github/contributors/TS-Morocco/python)](#contributors-)
+[![All Contributors](https://img.shields.io/github/contributors/TS-Morocco/Python-Small-Projects)](#contributors-)
 ![Issues](https://img.shields.io/github/issues/TS-Morocco/Python-Small-Projects)
 ![Pull Requests](https://img.shields.io/github/issues-pr/TS-Morocco/Python-Small-Projects)
 ![Forks](https://img.shields.io/github/forks/TS-Morocco/Python-Small-Projects)
